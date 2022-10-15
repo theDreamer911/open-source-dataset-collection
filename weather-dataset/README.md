@@ -1,0 +1,1 @@
+This file consists the data of differnt weathers in differnt parts of the world.
