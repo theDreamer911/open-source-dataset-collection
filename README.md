@@ -1,4 +1,4 @@
-# Train Dataset a.k.a Open Source Dataset Collection
+# Open Source Dataset Collection a.k.a Train Dataset
 
 This repositories refer to dataset that I found in my path on learning data science. This actually not for Hacktoberfest, but I think it will be great if more people can contribute into this works. I hope it could be useful for everyone. 
 
