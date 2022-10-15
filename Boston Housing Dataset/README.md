@@ -1,6 +1,6 @@
 # About
 This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. The dataset is small in size with only 506 cases.
-The data was originally published by Harrison, D. and Rubinfeld, D.L. `Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.
+The data was originally published by Harrison, D. and Rubinfeld, D.L. Hedonic prices and the demand for clean air,J. Environ. Economics & Management, vol.5, 81-102, 1978.
 
 # Miscellaneous Details
 There are 14 attributes in each case of the dataset. They are:  
