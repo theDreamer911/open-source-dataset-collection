@@ -1,15 +1,15 @@
 # Description
 
-Contains the data of location of past shark attack in the world
+In keeping with the philosophy of Albert Einstein, the mission of the Global Shark Attack File is to provide current and historical data on shark/human interactions for those who seek accurate and meaningful information and verifiable references.
 
 # Details
 
-All of the data on this site comes from the Global Shark Attack File (GSAF), a spreadsheet of human/shark interactions, compiled by the Shark Research Institute. It is hoped that this site makes it apparent that shark attacks are extremely rare occurrences, while providing an easily accessible resource for those wishing to know more about the subject.
+For researchers needing more data, and for those in the media, the Global Shark Attack File provides direct contact information of the case investigators.
 
-# Reference
+Humans are not on the menu of sharks. Sharks bite humans out of curiosity or to defend themselves.
 
-http://www.sharkattackfile.net/index.htm
+It is the goal of the Global Shark Attack File to demonstrate and emphasize, through forensic analysis, the significance of shark/human interactions in comparison to the myriad dangers that we face in our daily lives. With a better understanding of these interactions we can minimize the risk of being injured by a shark and concentrate on the conservation of all shark species worldwide.
 
-# Publisher
+# Source
 
-Shark Research Institute
+Shark Research Institute, http://www.sharkattackfile.net/index.htm
